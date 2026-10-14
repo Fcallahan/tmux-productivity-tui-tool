@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+events.log
+.ralph-loop/
+.claude/
+initial_prompt.md
